@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelvinChand
 - 👀 I’m interested in Back End Developer
-- 🌱 I’m currently learning Laravel And React Js
+- 🌱 I’m currently learning Laravel And Javascript
 - 💞️ I’m looking to collaborate on demand
 - 📫 How to reach me instagram :@kelvinw_c
 
